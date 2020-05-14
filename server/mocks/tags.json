@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "ruName": "команда",
+    "enName": "command"
+  },
+  {
+    "id": 2,
+    "ruName": "фэнтези",
+    "enName": "fantasy"
+  },
+  {
+    "id": 3,
+    "ruName": "магия",
+    "enName": "magic"
+  },
+  {
+    "id": 4,
+    "ruName": "приключения",
+    "enName": "quest"
+  }
+]

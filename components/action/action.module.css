@@ -1,0 +1,19 @@
+.actions {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.actionName {
+  margin: 78px 52px 78px 0;
+  background: #555;
+  color: #fff;
+  font-family: Roboto, serif;
+  font-size: 34px;
+  line-height: 38px;
+  height: 78px;
+  display: flex;
+  align-items: center;
+  padding: 0 20px;
+  cursor: pointer;
+}

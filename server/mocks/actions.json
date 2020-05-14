@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Убежать",
+    "currentSceneId": 1,
+    "nextSceneId": 5
+  },
+  {
+    "name": "Драться",
+    "currentSceneId": 1,
+    "nextSceneId": 2
+  },
+  {
+    "name": "Передумать",
+    "currentSceneId": 2,
+    "nextSceneId": 1
+  },
+  {
+    "name": "Фаербол",
+    "currentSceneId": 2,
+    "nextSceneId": 3
+  },
+  {
+    "name": "Кольцо холода",
+    "currentSceneId": 2,
+    "nextSceneId": 3
+  },
+  {
+    "name": "Дальше",
+    "currentSceneId": 3,
+    "nextSceneId": 4
+  },
+  {
+    "name": "Начать заново",
+    "currentSceneId": 4,
+    "nextSceneId": 1
+  },
+  {
+    "name": "Начать заново",
+    "currentSceneId": 5,
+    "nextSceneId": 1
+  },
+  {
+    "name": "Дальше",
+    "currentSceneId": 7,
+    "nextSceneId": 8
+  },
+  {
+    "name": "Начать заново",
+    "currentSceneId": 8,
+    "nextSceneId": 7
+  },
+  {
+    "name": "Лечь спать",
+    "currentSceneId": 9,
+    "nextSceneId": 10
+  },
+  {
+    "name": "Продолжить листать ленту",
+    "currentSceneId": 9,
+    "nextSceneId": 11
+  },
+  {
+    "name": "Встать",
+    "currentSceneId": 11,
+    "nextSceneId": 13
+  },
+  {
+    "name": "Выключить будильник",
+    "currentSceneId": 11,
+    "nextSceneId": 12
+  },
+  {
+    "name": "Начать заново",
+    "currentSceneId": 10,
+    "nextSceneId": 9
+  },
+  {
+    "name": "Начать заново",
+    "currentSceneId": 13,
+    "nextSceneId": 9
+  },
+  {
+    "name": "Начать заново",
+    "currentSceneId": 12,
+    "nextSceneId": 9
+  },
+  {
+    "name": "Начать заново",
+    "currentSceneId": 14,
+    "nextSceneId": 6
+  },
+  {
+    "name": "Начать заново",
+    "currentSceneId": 15,
+    "nextSceneId": 6
+  },
+  {
+    "name": "Налево",
+    "currentSceneId": 6,
+    "nextSceneId": 14
+  },
+  {
+    "name": "Направо",
+    "currentSceneId": 6,
+    "nextSceneId": 15
+  }
+]

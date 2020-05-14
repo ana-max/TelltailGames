@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "name": "Эпичный квест",
+    "description": "",
+    "pathToImg": "/firstAdv.jpg",
+    "firstSceneId": 6
+  },
+  {
+    "id": 2,
+    "name": "Приключения мага",
+    "pathToImg": "/secondAdv.jpg",
+    "description": "Древнее Зло вновь набирается сил... Грядет новая битва. Вы - единственная надежда выиграть в финальной битве с темными силами",
+    "firstSceneId": 1
+  },
+  {
+    "id": 3,
+    "name": "Студенческая жизнь",
+    "pathToImg": "/student.jpg",
+    "description": "Завтра важный день. Помогите студенту принять правильный выбор!",
+    "firstSceneId": 9
+  },
+  {
+    "id": 4,
+    "name": "Приключение",
+    "pathToImg": "",
+    "description": "",
+    "firstSceneId": 7
+  },
+  {
+    "id": 5,
+    "name": "Приключение 2",
+    "pathToImg": "",
+    "description": "",
+    "firstSceneId": 7
+  },
+  {
+    "id": 6,
+    "name": "Приключение 3",
+    "pathToImg": "",
+    "description": "",
+    "firstSceneId": 7
+  },
+  {
+    "id": 7,
+    "name": "Приключение 4",
+    "pathToImg": "",
+    "description": "Описание приключения 4",
+    "firstSceneId": 7
+  },
+  {
+    "id": 8,
+    "name": "Приключение 5",
+    "pathToImg": "",
+    "description": "",
+    "firstSceneId": 7
+  },
+  {
+    "id": 9,
+    "name": "Приключение 6",
+    "pathToImg": "",
+    "description": "",
+    "firstSceneId": 7
+  },
+  {
+    "id": 10,
+    "name": "Приключение 7",
+    "pathToImg": "",
+    "description": "Описание приключения 7",
+    "firstSceneId": 7
+  },
+  {
+    "id": 11,
+    "name": "Приключение 8",
+    "pathToImg": "",
+    "description": "",
+    "firstSceneId": 7
+  },
+  {
+    "id": 12,
+    "name": "Приключение 9",
+    "pathToImg": "",
+    "description": "",
+    "firstSceneId": 7
+  },
+  {
+    "id": 13,
+    "name": "Приключение 10",
+    "pathToImg": "",
+    "description": "",
+    "firstSceneId": 7
+  },
+  {
+    "id": 14,
+    "name": "Приключение 11",
+    "pathToImg": "",
+    "description": "",
+    "firstSceneId": 7
+  }
+]

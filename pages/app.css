@@ -1,0 +1,74 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.tag {
+    font-family: Gabriela, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 42px;
+    line-height: 15px;
+    margin: 46px 0 0 99px;
+}
+
+.scene {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+}
+
+.scene__img {
+    position: relative;
+    overflow: hidden;
+    margin: 59px 29px 0 45px;
+    height: 450px;
+}
+
+.sceneImage {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.rightBottom {
+    right: 0;
+    bottom: 0;
+    margin-right: 20px;
+}
+
+.leftBottom {
+    left: 0;
+    bottom: 0;
+}
+
+.leftTop {
+    margin-left: 5px;
+    left: 0;
+    top: 0;
+}
+
+.scene__description {
+    font-family: Gabriela, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 36px;
+    color: #fff;
+    position: absolute;
+    padding: 4px 10px;
+}
+
+.sceneWithoutImage {
+  display: block;
+  box-sizing: border-box;
+  border: 1px solid #000;
+}
+
+.descriptionWithoutImage {
+    color: #000;
+}
+
+.routerLink {
+  text-decoration: none;
+}

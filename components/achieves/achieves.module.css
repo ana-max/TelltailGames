@@ -1,0 +1,41 @@
+.achieves {
+  width: 100%;
+  display: flex;
+  margin-left: 62px;
+  margin-bottom: -52px;
+}
+
+.achieve {
+  margin-top: 25px;
+  display: flex;
+  width: 48%;
+  height: 200px;
+}
+
+.achieve__image {
+  position: relative;
+  width: 147px;
+  height: 147px;
+  overflow: hidden;
+  border-radius: 50%;
+}
+
+.achieveImage {
+  max-height: 100%;
+}
+
+.achieve__description {
+  font-family: Gabriela, serif;
+  margin-left: 21px;
+}
+
+.achieveDescription__header {
+  font-size: 30px;
+  line-height: 38px;
+}
+
+.achieveDescription__name {
+  margin: 0;
+  font-size: 48px;
+  line-height: 38px;
+}

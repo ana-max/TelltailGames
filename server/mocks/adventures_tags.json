@@ -1,0 +1,38 @@
+[
+  {
+    "adventureId": 1,
+    "tagId": 1
+  },
+  {
+    "adventureId": 1,
+    "tagId": 2
+  },
+  {
+    "adventureId": 1,
+    "tagId": 3
+  },
+  {
+    "adventureId": 2,
+    "tagId": 3
+  },
+  {
+    "adventureId": 2,
+    "tagId": 2
+  },
+  {
+    "adventureId": 3,
+    "tagId": 4
+  },
+  {
+    "adventureId": 7,
+    "tagId": 4
+  },
+  {
+    "adventureId": 9,
+    "tagId": 1
+  },
+  {
+    "adventureId": 9,
+    "tagId": 3
+  }
+]

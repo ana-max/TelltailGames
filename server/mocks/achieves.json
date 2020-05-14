@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Мудрец",
+    "pathToImg": "liveAchieve.png"
+  },
+  {
+    "name": "YOU DIED",
+    "pathToImg": "dieAchieve.png"
+  },
+  {
+    "name": "YOU WIN",
+    "pathToImg": "win.jpg"
+  },
+  {
+    "name": "VERY GOOD",
+    "pathToImg": "good.jpeg"
+  },
+  {
+    "name": "Неудачник",
+    "pathToImg": "sad.jpg"
+  }
+]

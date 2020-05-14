@@ -1,0 +1,92 @@
+[
+  {
+    "description": "Древнее зло пробудилось. Оно уничтожает \nгорода один за другим. Горстка выживших \nпросят вас о помощи.\n\nГотовы ли вы бросить ему вызов?",
+    "id": 1,
+    "descriptionPosition": "leftBottom",
+    "pathToImg": "/ctulhu.png"
+  },
+  {
+    "description": "Выберите заклинание",
+    "id": 2,
+    "descriptionPosition": "rightBottom",
+    "pathToImg": "/spellbook.png"
+  },
+  {
+    "description": "Начинается бой...",
+    "id": 3,
+    "descriptionPosition": "rightBottom",
+    "pathToImg": "/fait.png"
+  },
+  {
+    "description": "Вы храбро сражались. \nДо самой смерти.",
+    "id": 4,
+    "descriptionPosition": "leftTop",
+    "pathToImg": "/youdied.png"
+  },
+  {
+    "description": "Вы убежали и остались целы. \nМудрый поступок!",
+    "id": 5,
+    "descriptionPosition": "leftTop",
+    "pathToImg": "/youlive.png"
+  },
+  {
+    "description": "Куда пойдём?",
+    "id": 6,
+    "descriptionPosition": "leftTop",
+    "pathToImg": "/caption.jpg"
+  },
+  {
+    "description": "Сцена может не содержать картинку, \nтогда просто выводится описание в левом верхнем углу",
+    "id": 7,
+    "descriptionPosition": "",
+    "pathToImg": ""
+  },
+  {
+    "description": "Любая сцена может содержать любое количество ачивок. \nИх необходимо выводить между картинкой и действиям, \nдруг под другом, по две в ряд. \nСостоят из текста и квадратного изображения, \nкоторое необходимо вписать в круг.",
+    "id": 8,
+    "descriptionPosition": "",
+    "pathToImg": ""
+  },
+  {
+    "description": "Время уже 00:00. Тебе завтра к первой паре.\n\nЧто выберешь?",
+    "id": 9,
+    "descriptionPosition": "leftTop",
+    "pathToImg": "/night-telephone.jpg"
+  },
+  {
+    "description": "Ты выспался и готов продуктивно заниматься!",
+    "id": 10,
+    "descriptionPosition": "leftTop",
+    "pathToImg": "/good-up.jpg"
+  },
+  {
+    "description": "Ты не выспался. Не хочешь вставать.\nЧто выберешь?",
+    "id": 11,
+    "descriptionPosition": "leftBottom",
+    "pathToImg": "/break-alarm.jpg"
+  },
+  {
+    "description": "Ты проспал!",
+    "id": 12,
+    "descriptionPosition": "leftTop",
+    "pathToImg": "/sleep.jpg"
+  },
+  {
+    "description": "Ты очень уставший и все равно ничего не понял на лекциях.",
+    "id": 13,
+    "descriptionPosition": "leftTop",
+    "pathToImg": "/slp.jpg"
+  },
+  {
+    "description": "Тут котик",
+    "id": 14,
+    "descriptionPosition": "leftTop",
+    "pathToImg": "/cat.jpg"
+  },
+  {
+    "description": "Тут пёсик",
+    "id": 15,
+    "descriptionPosition": "leftTop",
+    "pathToImg": "/dog.jpg"
+  }
+]
